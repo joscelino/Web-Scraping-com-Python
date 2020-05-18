@@ -38,8 +38,8 @@ conexao.close()
 # Criando dicionario com dados de conexao
 configuracao = {
     'host' :'localhost',
-    'user' : 'joscelino',
-    'passwd' : 'joscelino',
+    'user' : '',
+    'passwd' : '',
     'db' : 'produtos'
     }
 
